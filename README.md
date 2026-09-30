@@ -69,3 +69,13 @@ Final Year
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishka-Pol/Tanishka-Pol/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishka-Pol/Tanishka-Pol/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanishka-Pol/Tanishka-Pol/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
