@@ -50,11 +50,7 @@ Contributed to the development of the **SKF Material Traceability** platform, de
 - Collaborated using Git and GitHub
 - Worked on deployment requirements for an internal environment
 ---
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanishka-Pol&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
 ## 🎓 Education
 
 **B.Tech in Computer Science Engineering**  
