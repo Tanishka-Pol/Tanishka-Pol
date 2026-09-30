@@ -4,6 +4,10 @@
 
 I'm a Final Year B.Tech Computer Science Engineering student at **Pimpri Chinchwad University**, passionate about building practical, user-friendly and scalable web applications.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tanishka-Pol&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -46,7 +50,11 @@ Contributed to the development of the **SKF Material Traceability** platform, de
 - Collaborated using Git and GitHub
 - Worked on deployment requirements for an internal environment
 ---
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanishka-Pol&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 ## 🎓 Education
 
 **B.Tech in Computer Science Engineering**  
