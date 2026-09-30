@@ -33,25 +33,6 @@ I'm a Final Year B.Tech Computer Science Engineering student at **Pimpri Chinchw
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 ---
-
-## 🚀 Featured Projects
-
-### 🐾 PawRaksha
-
-A web-based Pet Health & Wellness Tracker designed to help pet owners manage and monitor their pet's health and wellness information through an intuitive dashboard.
-
-**Tech Stack:** HTML, CSS, JavaScript, Node.js
-
----
-
-### 📦 SKF Material Traceability
-
-A centralized web platform developed during my Full-Stack Development internship at SKF to improve material traceability across multiple manufacturing stages.
-
-The platform brings information from different processes into one centralized interface, helping reduce dependency on multiple Excel sheets and applications.
-
-**Tech Stack:** React.js, Node.js, Express.js, PostgreSQL
-
 ---
 
 ## 💼 Experience
