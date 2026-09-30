@@ -58,7 +58,7 @@ Final Year
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/tanishka-pol-b73534291/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tanishkapol251@gmail.com">
